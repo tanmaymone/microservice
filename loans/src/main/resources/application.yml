@@ -14,4 +14,4 @@ spring:
   application:
     name: loans
 server:
-  port: 9000
+  port: 8090

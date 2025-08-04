@@ -14,4 +14,4 @@ spring:
   application:
     name: cards
 server:
-  port: 8090
+  port: 9000
