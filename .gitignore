@@ -1,0 +1,53 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+logs/
+*.tmp
+
+# Compiled class files
+target/
+build/
+
+# Package distribution
+dist/
+out/
+
+# IDE-specific
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment-specific
+.env
+.env.*
+
+# IntelliJ config
+*.iml
+.idea/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Test results
+test-output/
+surefire-reports/
